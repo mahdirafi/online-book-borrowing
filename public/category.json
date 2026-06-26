@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Story",
+    "slug": "story"
+  },
+  {
+    "id": 2,
+    "name": "Tech",
+    "slug": "tech"
+  },
+  {
+    "id": 3,
+    "name": "Science",
+    "slug": "science"
+  },
+  {
+    "id": 4,
+    "name": "History",
+    "slug": "history"
+  },
+  {
+    "id": 5,
+    "name": "Biography",
+    "slug": "biography"
+  },
+  {
+    "id": 6,
+    "name": "Business",
+    "slug": "business"
+  },
+  {
+    "id": 7,
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": 8,
+    "name": "Mathematics",
+    "slug": "mathematics"
+  },
+  {
+    "id": 9,
+    "name": "Health",
+    "slug": "health"
+  },
+  {
+    "id": 10,
+    "name": "Psychology",
+    "slug": "psychology"
+  },
+  {
+    "id": 11,
+    "name": "Fantasy",
+    "slug": "fantasy"
+  },
+  {
+    "id": 12,
+    "name": "Education",
+    "slug": "education"
+  }
+]
