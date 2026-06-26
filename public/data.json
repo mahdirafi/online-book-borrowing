@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "Emma Carter",
+    "description": "A thrilling story about friendship, courage, and uncovering ancient secrets hidden in a mysterious forest.",
+    "category": "Story",
+    "available_quantity": 15,
+    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+  },
+  {
+    "id": 2,
+    "title": "Mastering JavaScript",
+    "author": "David Wilson",
+    "description": "A practical guide to modern JavaScript, covering ES6+, asynchronous programming, and real-world projects.",
+    "category": "Tech",
+    "available_quantity": 10,
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 3,
+    "title": "The Wonders of Space",
+    "author": "Sophia Green",
+    "description": "Explore galaxies, black holes, and the mysteries of the universe in this engaging science book.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+  },
+  {
+    "id": 4,
+    "title": "Beyond the Horizon",
+    "author": "Michael Adams",
+    "description": "An inspiring adventure story of explorers searching for a forgotten civilization.",
+    "category": "Story",
+    "available_quantity": 12,
+    "image_url": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+  },
+  {
+    "id": 5,
+    "title": "React for Beginners",
+    "author": "Jessica Lee",
+    "description": "Learn React from scratch with hands-on examples, reusable components, and best practices.",
+    "category": "Tech",
+    "available_quantity": 20,
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+  },
+  {
+    "id": 6,
+    "title": "The Human Brain",
+    "author": "Daniel Brooks",
+    "description": "Discover how the brain works, from memory and learning to emotions and decision-making.",
+    "category": "Science",
+    "available_quantity": 9,
+    "image_url": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da"
+  },
+  {
+    "id": 7,
+    "title": "Whispers of the Sea",
+    "author": "Olivia Turner",
+    "description": "A heartfelt story about family, adventure, and finding hope along the ocean shore.",
+    "category": "Story",
+    "available_quantity": 14,
+    "image_url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc"
+  },
+  {
+    "id": 8,
+    "title": "Node.js Essentials",
+    "author": "Ryan Mitchell",
+    "description": "Build scalable backend applications using Node.js, Express, and REST APIs.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+  },
+  {
+    "id": 9,
+    "title": "Physics Made Simple",
+    "author": "Laura Bennett",
+    "description": "An easy-to-understand introduction to motion, energy, electricity, and modern physics.",
+    "category": "Science",
+    "available_quantity": 16,
+    "image_url": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+  },
+  {
+    "id": 10,
+    "title": "The Lost Kingdom",
+    "author": "Nathan Cooper",
+    "description": "A fantasy adventure where young heroes uncover the secrets of a forgotten kingdom.",
+    "category": "Story",
+    "available_quantity": 7,
+    "image_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+  },
+  {
+    "id": 11,
+    "title": "Python in Practice",
+    "author": "Sarah Johnson",
+    "description": "A project-based guide to learning Python for web development, automation, and data analysis.",
+    "category": "Tech",
+    "available_quantity": 18,
+    "image_url": "https://images.unsplash.com/photo-1513258496099-48168024aec0"
+  },
+  {
+    "id": 12,
+    "title": "The Science of Nature",
+    "author": "Christopher Hall",
+    "description": "Learn about ecosystems, biodiversity, and the natural processes that shape our planet.",
+    "category": "Science",
+    "available_quantity": 13,
+    "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  }
+]
