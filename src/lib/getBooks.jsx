@@ -13,3 +13,10 @@ export const getCategory = async () => {
     const category = await res.json();
     return category;
 };
+
+
+//  for id find method
+export const getBooksById = async (id) => {
+    const books = await getBooks();
+    return books.find((e) => e.id === Number(id));
+};
