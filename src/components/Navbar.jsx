@@ -53,10 +53,10 @@ const Navbar = () => {
           {!user && (
             <ul className="flex items-center space-x-2 text-sm">
               <Button>
-                <Link href="/signup">Sign Up</Link>
+                <Link href="/registration">Registration</Link>
               </Button>
               <Button variant="outline">
-                <Link href="/signin">Sign In</Link>
+                <Link href="/login">Login</Link>
               </Button>
             </ul>
           )}
