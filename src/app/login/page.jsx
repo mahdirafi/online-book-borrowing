@@ -11,6 +11,7 @@ import {
   Label,
   TextField,
 } from "@heroui/react";
+import Link from "next/link";
 import { BsGoogle } from "react-icons/bs";
 
 export default function SignInPage() {
@@ -98,14 +99,18 @@ console.log({data,error});
           </Button>
         </div>
       </Form>
+      <div className="text-center mt-4">
+        <Link href="/registration" className="text-blue-700 font-semibold">
+        if you don't have any account?</Link>
+      </div>
       <div className="text-center ">
-        
-          <p className="text-center mt-12">OR</p>
+          <p className="text-center mt-4">OR</p>
 
       <Button onClick={handleGoogleSignIn}
               className="mt-6 mb-1" variant="outline">
               <BsGoogle/> SignIn with Google
       </Button>
+      
       </div>
       
        
