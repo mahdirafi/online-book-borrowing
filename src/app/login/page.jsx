@@ -101,7 +101,7 @@ console.log({data,error});
       </Form>
       <div className="text-center mt-4">
         <Link href="/registration" className="text-blue-700 font-semibold">
-        if you don't have any account?</Link>
+        if you do not have any account?</Link>
       </div>
       <div className="text-center ">
           <p className="text-center mt-4">OR</p>
@@ -110,7 +110,7 @@ console.log({data,error});
               className="mt-6 mb-1" variant="outline">
               <BsGoogle/> SignIn with Google
       </Button>
-      
+
       </div>
       
        
